@@ -22,12 +22,12 @@ running `ruby taskbot.rb`. That's pretty much it.
 Taskbot is quite rudimentary at this point, but it implmenets the
 following commands to manage your task-list:
 
-`add my task` - Adds 'my task' to your task queue
-`put my task` - Alias to 'add'
-`get` - Gets a task from the queue. It also pops the task out
-`pop` - Alias for 'get'
-`list` - Returns a dump of your first 10 elements in the queue
-`clear` - Resets your queue
+* `add my task` - Adds 'my task' to your task queue
+* `put my task` - Alias to 'add'
+* `get` - Gets a task from the queue. It also pops the task out
+* `pop` - Alias for 'get'
+* `list` - Returns a dump of your first 10 elements in the queue
+* `clear` - Resets your queue
 
 ## Internals
 
