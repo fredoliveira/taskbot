@@ -8,7 +8,7 @@ Taskbot. Keep that in mind if you want to run this in production. The
 system, running on Redis' default configuration will self-regulate to
 persist automatically depending on activity.
 
-## Configuring Taskbot
+## Configuring and running Taskbot
 
 Create a `config.yml` file (based on the example) and add a username and
 password to it for a given xmpp account (you can create one at
